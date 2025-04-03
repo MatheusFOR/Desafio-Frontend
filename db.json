@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "status": "Inativo",
+      "name": "Ana Bispo dos Santos",
+      "gender": "F",
+      "cpf": "222.222.222-22",
+      "birthDate": "1988-12-20",
+      "rg": "22.222.222-2",
+      "position": "Cargo 1",
+      "noEPI": false,
+      "active": false,
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Regina Elisa Souza",
+      "registration": "000.000.00-66",
+      "status": "Ativo",
+      "position": "Cargo 3",
+      "active": true,
+      "gender": "F",
+      "cpf": "333.333.333-33",
+      "birthDate": "1995-08-10",
+      "rg": "33.333.333-3",
+      "noEPI": true
+    },
+    {
+      "id": "e709",
+      "status": "Ativo",
+      "name": "Clarinha",
+      "gender": "F",
+      "cpf": "0000000046",
+      "birthDate": "2025-04-03",
+      "rg": "2121212121",
+      "position": "Cargo 3",
+      "noEPI": true,
+      "registration": "000.000.00-18",
+      "active": true
+    }
+  ]
+}
